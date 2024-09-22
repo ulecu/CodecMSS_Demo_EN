@@ -15,7 +15,7 @@ This program can encrypt or decrypt texts in any language.
 ​2. Enter only the first 2 characters of the personal key (the same key used by the sender)
 ​3. Press the decryption button and the decrypted text will be displayed (randomly only 1, 2 or 3 characters).
 ​4. Press the EXIT button.
-==========================================================================================
+
 ​PRO version  
 ​The sender must follow the following steps: 
 ​1. Enter the personal key that can contain up to 40,000 characters.
@@ -29,4 +29,3 @@ This program can encrypt or decrypt texts in any language.
 ​2. Enter the personal key (the same key used by the sender).
 ​3. Press the decryption button and the decrypted text will be displayed.
 ​4. Press the EXIT button.
-​======================================================================================
